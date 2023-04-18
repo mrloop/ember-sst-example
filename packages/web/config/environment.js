@@ -18,6 +18,7 @@ module.exports = function (environment) {
       // Here you can pass flags/options to your application instance
       // when it is created
     },
+    apiUrl: process.env.EMBER_APP_API_URL,
   };
 
   if (environment === 'development') {
