@@ -1,0 +1,1 @@
+A simple hello world [Ember.js](https://emberjs.com/) app that is deployed to AWS with Serverless Stack, [SST](https://sst.dev/), and uses a `hello` API endpoint. Read more about in the blog post [_Quick full-stack app deployment using AWS and Ember.js_](https://blog.mrloop.com/javascript/ember/typescript/aws/sst/2023/04/19/ember-sst.html).
